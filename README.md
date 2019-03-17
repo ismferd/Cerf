@@ -1,6 +1,6 @@
 # cerf
 
-[Serf](https://www.serf.io/) from Hashicorp in a Container image
+[Serf](https://www.serf.io/) from Hashicorp in a container image
 
 ## How can I use it?
 
