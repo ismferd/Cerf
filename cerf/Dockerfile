@@ -1,5 +1,5 @@
 FROM alpine:3.6
-MAINTAINER Vince Tse <fernandez.molina.ismael@gmail.com>
+MAINTAINER ismferd <fernandez.molina.ismael@gmail.com>
 
 # Update the base image
 RUN apk update
